@@ -6,7 +6,7 @@ A simple Pokédex built with Angular.js
 
 ### Pokémon
 
-Pokémon images, names and information (c) 1995-2014 Nintendo/Game freak.
+Pokémon images, names and information (c) 1995-2016 Nintendo/Game freak.
 
 Images and content were taken from the following resources:
 
@@ -18,7 +18,7 @@ This site was built entirely for education purposes only.
 
 ### Code: The MIT License (MIT)
 
-Copyright (c) 2014 Julián Duque
+Copyright (c) 2016 Luis Sanchez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
